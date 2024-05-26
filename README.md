@@ -1,7 +1,7 @@
 # wine_riot
 riot image compressor (64bits version) wine installation.
 
-This is a Riot x64 installer for linux, with the help of wine :)
+This is a Riot x64 installer for linux, with the help of wine :)  
 I know there are several very good images compressor for linux, even with some good guis, but at my opinion, nothing that beats Riot image compressor.
 The installer was designed for q4os trinity, but should work on any recent debian distro (maybe with some adjustements to the .desktop files).
 
