@@ -7,7 +7,7 @@ This installer was designed for q4os trinity, but should work on any recent debi
 
 Instructions:
 
-clone the repository, an cd to the wine_riot folder
-set install_riot.sh executable: sudo chmod +x ./install_riot.sh
-launch the installer: ./install_riot.sh
+clone the repository, an cd to the wine_riot folder  
+set install_riot.sh executable: sudo chmod +x ./install_riot.sh  
+launch the installer: ./install_riot.sh  
 Enjoy.
